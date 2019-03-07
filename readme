@@ -1,0 +1,10 @@
+tareas 
+
+1 -saber hacer una red neuronal
+2 -leer archivos pgn para entrenar la red
+3 -ponerle valores al tablero
+4 -ponerle valores a las piezas
+5 -movimiento optimo = valor de casilla que quiero + amenazo una pieza rival de mucho valor ?+
+                        que pieza mia de valor dejo desprotejida ?// nose si es lo optimo pero me da igual
+6 -entrenar la red
+ posiblemente haya mas tareas que no tengo idea
